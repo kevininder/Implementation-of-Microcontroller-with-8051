@@ -7,9 +7,9 @@ In this course, programming techniques of embedded systems and hardware architec
 ## Quick Access
 ### [Assignments](https://github.com/kevininder/Implementation-of-Microcontroller-with-8051/tree/main/Assignments)
 Implementation of Timer, Counter, Interrupts and UART can be found here.
-***
+
 ### [Projects](https://github.com/kevininder/Implementation-of-Microcontroller-with-8051/tree/main/Projects)
 Implementation of I2C and SPI are showcased here.
-***
+
 ### [Exams](https://github.com/kevininder/Implementation-of-Microcontroller-with-8051/tree/main/Exams)
 8051 schema layout with KiCad is provided.
