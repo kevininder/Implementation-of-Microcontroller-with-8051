@@ -12,4 +12,4 @@ Implementation of Timer, Counter, Interrupts and UART can be found here.
 Implementation of I2C and SPI are showcased here.
 
 ### [Exams](https://github.com/kevininder/Implementation-of-Microcontroller-with-8051/tree/main/Exams)
-8051 schema layout with KiCad is provided.
+8051 schema layout with KiCad is provided in this section.
