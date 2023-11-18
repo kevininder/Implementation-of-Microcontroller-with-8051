@@ -34,7 +34,7 @@ void main() {
             lcdCmd(0xC0);
             lcdString("     LED ON     ");
             serialString("     LED ON     ");
-            serialData(0x0D);
+            serialData(0x0D); // new line command
         }
         else {
             LED = 0;
@@ -85,7 +85,7 @@ void serialData(unsigned char d) {
 
 void serialString(unsigned char *str) {
     while (*str) {
-        serialSend(*str++);
+        serialData(*str++);
     }
 }
 
